@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "meet_in_the_middle_NootNoot750f",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "meet_in_the_middle_NootNoot750f::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-meet_in_the_middle_NootNoot750f-Debug-21f46a66d5745a3b5e9d.json",
+					"name" : "meet_in_the_middle_NootNoot750f",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Users/nickh/Desktop/meet-in-the-middle-NootNoot750f/cmake-build-debug",
+		"source" : "D:/Users/nickh/Desktop/meet-in-the-middle-NootNoot750f"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
